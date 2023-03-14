@@ -4,6 +4,6 @@
 
 
 
-# site_wss
+# site_sw
 
 Site config for domain "Freifunk Südwest"
